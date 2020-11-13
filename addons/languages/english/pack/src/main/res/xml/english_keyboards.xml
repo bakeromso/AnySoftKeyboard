@@ -47,5 +47,8 @@
               layoutResId="@xml/halmak" id="546b29d0-2563-11e9-b56e-0800200c9a66"
               description="@string/halmak_keyboard_description"
               index="10"/>
-
+    <Keyboard nameResId="@string/swiftkey_keyboard"
+              layoutResId="@xml/swiftkey" id="a59067bb-46d3-48a6-9ede-ccc3ace13a04"
+              description="@string/swiftkey_keyboard_description"
+              index="11"/>
 </Keyboards>
